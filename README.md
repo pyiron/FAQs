@@ -10,6 +10,6 @@ General question board for pyiron users
 
 ## How to use
 
-1. Open an [issue](https://github.com/pyiron/FAQs/issues)
+1. Open an [issue](https://github.com/pyiron/FAQs/issues) (Feel free to choose a label)
 2. Raise the issue at the pyiron user meeting (every Friday at 10am CET/CEST)
 3. Feel free to create a new folder in this repository for documentation
